@@ -1,9 +1,5 @@
 # BASH-workfiles
 
-### Lecture : Create Linux tools and Linux Automation
-
-LAB Files for BASH Scripting 101 used at the CyberSec training (MLab) 2015
-
 
 Resources
 =========

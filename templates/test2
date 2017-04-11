@@ -1,0 +1,4 @@
+CMD=$( ls )
+utime="$( TIMEFORMAT='%lU';time ( $CMD ) 2>&1 1>/dev/null )"
+echo "$utime"
+
